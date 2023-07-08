@@ -4,7 +4,7 @@ look settings
 
     "========== Bridge Settings ==========": "",
         "BridgeFunds"       : ["optimism", "polygon", "avalanche", "arbitrum", "bsc" ], 
-        "BridgeAmounts"     : [0, 3],
+        "BridgeAmounts"     : [0, 2],
         "WooFiBridgeAmount" : [2, 3],
         "AptosAmounts"      : [0.2, 0.7],
         "TestNetBridge"     : [0.0001, 0.0002],
